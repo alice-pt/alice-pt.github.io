@@ -2,6 +2,8 @@
 
 html{
   width: 100%;
+  max-height: 100vh;
+  max-height: 100svh;
   background-color: #000;
   overflow-x: hidden;
 }
@@ -268,7 +270,7 @@ html{
   align-content: center;
   justify-content: center;
 }
-.frame-23 {
+.bubble-1 {
   padding: 16px 60px 56px 60px;
   display: flex;
   flex-direction: column;
@@ -278,7 +280,7 @@ html{
   width: 229px;
   position: relative;
 }
-.frame-25 {
+.bubble-2 {
   padding: 36px 150px 0px 0px;
   display: flex;
   flex-direction: column;
@@ -288,7 +290,7 @@ html{
   width: 229px;
   position: relative;
 }
-.frame-28 {
+.bubble-5 {
   top: -20%;
   padding: 36px 150px 0px 0px;
   display: flex;
@@ -396,7 +398,7 @@ html{
   mix-blend-mode: lighten;
 }
 
-.frame-27 {
+.bubble-4 {
   top: 35%;
   padding: 26px 65px 56px 65px;
   display: flex;
@@ -404,19 +406,16 @@ html{
   gap: 10px;
   align-items: flex-start;
   justify-content: flex-start;
-  flex-shrink: 0;
   width: 229px;
   position: relative;
 }
-.frame-26 {
+.bubble-3 {
   top: -10%;
   padding: 6px 5px 116px 95px;
   display: flex;
   flex-direction: column;
   gap: 10px;
   align-items: center;
-  justify-content: flex-start;
-  flex-shrink: 0;
   width: 229px;
   position: relative;
 }
