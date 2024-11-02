@@ -534,7 +534,7 @@ html{
   left: 15%;
   top: 138px;
 }
-.frame-10 {
+.cards {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -546,7 +546,7 @@ html{
   left: 15%;
   top: 300px;
 }
-.frame-5 {
+.card-1 {
   border-radius: 20px;
   border-style: solid;
   border-color: #3f749c;
@@ -578,7 +578,7 @@ html{
   position: relative;
   align-self: stretch;
 }
-.frame-4 {
+.card-2 {
   border-radius: 20px;
   border-style: solid;
   border-color: #3f749c;
@@ -610,7 +610,7 @@ html{
   position: relative;
   align-self: stretch;
 }
-.frame-6 {
+.card-3 {
   border-radius: 20px;
   border-style: solid;
   border-color: #3f749c;
@@ -1216,20 +1216,20 @@ a{
     display: flex;
     flex-direction: column;
   }
-  .frame-23 {
+  .bubble-1 {
     padding: 16px 10px 56px 10px;
   }
-  .frame-25 {
+  .bubble-2 {
     padding: 30px 10px 60px 230px;
   }
-  .frame-26{
+  .bubble-3{
     padding: 170px 10px 0px 240px;
   }
-  .frame-27{
+  .bubble-4{
     top: 15%;
     padding: -25px 0px 0px 230px;
   }
-  .frame-28{
+  .bubble-5{
     padding: 0px 150px 0px 20px;
     justify-content: flex-start;
     align-content: flex-start;
@@ -1313,7 +1313,7 @@ a{
     .de-ce-ai-nevoie-de-un-antrenor-personal{
       font-size: 1.5em;
     }
-    .frame-10{
+    .cards{
       left: 1%;
     }
     .personal-trainer{
