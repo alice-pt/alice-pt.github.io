@@ -1381,7 +1381,7 @@ a{
 }
 @media screen and (min-width: 1700px){
   .cards{
-    gap: 75px;
+    gap: 95px;
   }
   .banner .text{
     left: 32%;
