@@ -1383,4 +1383,7 @@ a{
   .cards{
     gap: 75px;
   }
+  .banner .text{
+    left: 32%;
+  }
 }
