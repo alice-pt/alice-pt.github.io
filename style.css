@@ -1043,8 +1043,8 @@ a{
 }
 
 /* Animation  */
-.auto-show {
-  animation: autoShowAnimation both;
+section .auto-show {
+  animation: autoShowAnimation linear;
   animation-timeline: view(70% 5%);
 }
 
