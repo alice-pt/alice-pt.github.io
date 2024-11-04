@@ -1379,3 +1379,8 @@ a{
         right: -7%;
       }
 }
+@media screen and (min width: 1700px){
+  .cards{
+    gap: 75px;
+  }
+}
