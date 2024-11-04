@@ -126,7 +126,9 @@ html{
   position: relative;
   object-fit: cover;
 }
-
+section{
+  max-height: 300svh;
+}
 /* Hero Section */
 .section-home {
   background-color: #000;
